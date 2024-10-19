@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D student at the School of Computer Science, University of Auckland. My supervisors are Prof. [Jingfeng ZHANG](https://zjfheart.github.io/) 
-and by Prof. [Jing SUN](https://profiles.auckland.ac.nz/jing-sun).
+I am a Ph.D student at the School of Computer Science, University of Auckland, advised by Prof. [Jingfeng ZHANG](https://zjfheart.github.io/) 
+and also co-advised by Prof. [Jing SUN](https://profiles.auckland.ac.nz/jing-sun).
 
-I received my master degree in Computer Science at the School of Artificial Intelligence, Hebei University of technology in 2024, 
+I received my master's degree in Computer Science at the School of Artificial Intelligence, Hebei University of technology in 2024, 
 advised by Prof. [Bin CAO](https://teacher.hebut.edu.cn/publish/20151471cba5fb8c11edab95286ed488d6f1003/) 
-and undergraduate degree in Applied Physics at the School of Science, Hebei University of technology in 2020.
+and bachelor's degree in Applied Physics at the School of Science, Hebei University of technology in 2020.
 
 
 
@@ -62,8 +62,9 @@ and undergraduate degree in Applied Physics at the School of Science, Hebei Univ
 
 # 📖 Educations
 - *2024.11 - (now)*, Doctor of Philosophy in Computer Science, School of Computer Science, University of Auckland, New Zealand.  
-- *2021.09 - 2024.06*, Master of Computer Science, School of Artificial Intelligence, Hebei University of technology, China.
-- *2016.09 - 2020.06*, Bachelor of Applied Physics, School of Science, Hebei University of technology, China. 
+- *2021.09 - 2024.06*, Master in Computer Science, School of Artificial Intelligence, Hebei University of technology, China.
+- *2017.09 - 2020.06*, Bachelor of Management (Minor, Double Degree) in Business Administration, School of Economics and Management, Hebei University of technology, China.
+- *2016.09 - 2020.06*, Bachelor of Science in Applied Physics, School of Science, Hebei University of technology, China. 
 
 [//]: # (# 💬 Invited Talks)
 
