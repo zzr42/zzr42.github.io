@@ -58,7 +58,7 @@ and bachelor's degree in Applied Physics at the School of Science, Hebei Univers
 # 🎖 Honors and Awards
 - *2023.11* Graduate Academic Scholarship.
 - *2019.03* Undergraduate Academic Scholarship. 
-- *2018.12* Beijing - Tianjin -Hebei Universities Badminton Tournament Men's Singles Champion. 
+- *2018.12* Beijing - Tianjin - Hebei Universities Badminton Tournament Men's Singles Champion. 
 
 # 📖 Educations
 - *2024.11 - (now)*, Doctor of Philosophy in Computer Science, School of Computer Science, University of Auckland, New Zealand.  
